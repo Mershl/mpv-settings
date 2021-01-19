@@ -17,7 +17,9 @@ The root directory needs to look like this:
 
 --->scripts
 
-you need to rename the proper mpv.conf you want to use to mpv.conf, as i split the different OS' Profiles to avoid errors.
+you need to rename the proper config you want to use to mpv.conf.
+
+example: mpv-windows.conf -> mpv.conf
 
 # WINDOWS INSTALLATION
 "C:\Users\YOURNAME\AppData\Roaming\mpv"
@@ -27,13 +29,19 @@ Path:
 
 /USERNAME/.config/mpv
 
-Tested Apple Devices:
+Tested Apple Devices on latest OS (BigSur at the time of writing the readme):
 
 - Base Macbook Pro 2018 13"
 
-macOS 11 Big Sur is not tested yet - just in case don't download it as i cannot guarantee that everything works fine.
 
 # LINUX INSTALLATION
 Path:
 Newly created Linux installs from master use /home/user/.mpv instead of the old /home/user/.config/mpv
 
+# Community and Discord Help Server
+
+i also have a Server for mpv-settings and AIO_Video_Enhancer. You can join here: https://discord.gg/WjtkbcQ
+
+Discord: Tsubajashi#8355
+
+if you like to donate for some reason, heres a link: https://www.paypal.com/paypalme2/tsubajashi
